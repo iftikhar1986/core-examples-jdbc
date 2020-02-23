@@ -1,5 +1,5 @@
 package com.soft.jdbc;
-
+//Get Connection Object from connection pooling provided by OracleDataSource
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
